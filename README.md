@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou Esther 👋
 
-<!--
-**Esther-felix/Esther-felix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora em formação com foco em Python e desenvolvimento web.
 
-Here are some ideas to get you started:
+Tenho interesse especial em projetos que unem tecnologia, literatura, arte e storytelling. Atualmente estudo programação através da criação de aplicações práticas voltadas para escritores, artistas e leitores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+- Python
+- HTML
+
+### Áreas de interesse
+- Desenvolvimento de Software
+- Automação
+- Ferramentas para Escritores
+- Desenvolvimento de Jogos
+- UX voltada para produtos criativos
+
+Sempre buscando aprender, construir projetos e transformar ideias em soluções reais.
